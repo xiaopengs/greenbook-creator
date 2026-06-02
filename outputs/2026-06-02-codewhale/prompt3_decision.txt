@@ -1,0 +1,23 @@
+A decision-tree knowledge graph infographic for "Should I switch to CodeWhale?" — an AI coding tool evaluation guide.
+
+The layout flows top-to-bottom like a flowchart:
+
+TOP: Large question "我是否该切换？" (Should I switch?) with a whale icon.
+
+SECOND LEVEL: User persona branches with star ratings:
+- LEFT (GREEN, 5 stars): "国内开发者" (China developers), "DeepSeek重度用户" (DeepSeek power users), "终端偏好者" (Terminal lovers), "服务器/远程工作者" (Server/remote workers) — all with checkmarks
+- CENTER (YELLOW, 4 stars): "预算敏感型" (Budget-sensitive), "学生/个人" (Students/individuals)
+- RIGHT (RED, 2 stars): "图形界面依赖者" (GUI-dependent), "需要实时补全" (Need real-time completion), "Claude/GPT深度用户" (Claude/GPT loyalists), "企业级生产环境" (Enterprise production) — with crosses
+
+THIRD LEVEL: "Migration Cost Matrix" — a horizontal bar chart showing difficulty from 2 stars (Claude Code/Aider) → 3 stars (Continue) → 4 stars (Cursor) → 5 stars (Copilot)
+
+FOURTH LEVEL: "Risk Assessment" split into warning cards:
+- Stability: "4 versions in 4 days", sub-agent MCP bugs, memory feature not working, panic crashes
+- Transition Chaos: DEEPSEEK_* env vars legacy, old docs floating around, v0.9.0 removing compatibility
+- Tech Debt: Non-CS maintainer (music background), feature bloat, Windows issues
+- Legal/Commercial: MIT no patent grant, no company backing, only "Buy me a coffee"
+- Security Advantages: Local-only execution, no telemetry, 3-tier approval, sandbox isolation
+
+BOTTOM: "Getting Started Path" — 8 numbered steps from npm install → auth setup → Plan mode → Agent mode → YOLO mode → MCP config → sub-agents → auto-routing
+
+Color scheme: Traffic light system (green for recommended, yellow for cautious, red for avoid). Dark background with glowing node connections. Use Chinese and English bilingual labels. Include small terminal screenshots, warning triangles, and shield icons. Style: enterprise decision-making infographic, clean and authoritative, suitable for technical team evaluation meetings.

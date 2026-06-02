@@ -1,0 +1,8 @@
+A stunning, information-dense knowledge graph infographic about an open-source software project rebranding. Central figure: "Hunter Bown (Whale Brother)" — a non-CS background developer (music education major, former band conductor, now patent law student) who created a popular AI coding tool. 
+
+The graph radiates in three directions:
+- LEFT: "Education & Background" branch showing: University of North Texas (Music Ed BS/MS) → SMU Law School (Patent Law, 2026) → 3 years as professional band conductor → MBA → Vibe Coding entry → "Musician who loves science"
+- TOP: "Rebranding Timeline (May 2026)" with a dramatic timeline: May 19 Shanghai event (awarded "Tiangong Kaiwu Ambassador") → May 21 "I was exploited" social media post → May 21 v0.8.40 (sub-agent file write permission) → May 23 v0.8.41 official rename to "CodeWhale" → May 24 v0.8.42 "Brother Whale" persona introduced → May 27 v0.8.47 (4 versions in 4 days)
+- RIGHT: "Community Impact" metrics: GitHub followers 80→hundreds→36,000 stars, 100+ contributors, "Whale Brothers" Chinese community culture, "Hello, Whale Brothers" viral phrase
+
+Color scheme: Deep ocean blue and whale-tail teal accents on dark navy background. Use connected nodes, flowing arrows, and hierarchical tree structures. Include small icons: musical notes for music background, law scales for patent law, GitHub octocat for open source, Chinese flag for China trip. Typography: clean sans-serif with Chinese characters where appropriate. Style: modern tech infographic, slightly cyberpunk, high contrast, suitable for a technical blog post or WeChat public account.

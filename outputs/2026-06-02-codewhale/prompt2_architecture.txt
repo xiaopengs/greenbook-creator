@@ -1,0 +1,19 @@
+A comprehensive, information-dense technical architecture and competitive comparison knowledge graph for "CodeWhale" — a terminal-native AI coding agent written in Rust.
+
+The layout is three-tiered:
+
+TOP TIER: "Product Philosophy" — centered quote: "One model answers questions, one Agent completes tasks — the difference is harness" with a whale logo.
+
+MIDDLE TIER: Split into three vertical columns:
+- LEFT "Tech Stack": Rust 94.9% / TypeScript 3.2% / JavaScript 1.4% pie chart. Split binary architecture: "codewhale" (scheduler CLI) and "codewhale-tui" (Agent TUI runtime). Constitution system with 7-level authority hierarchy (Article II Truth Supremacy, Article V Verification Delegation, Article VI Coordination Legacy)
+- CENTER "Core Features": Three operation modes (Plan/Agent/YOLO) with shield icons. DeepSeek V4 prefix cache optimization (100x cost reduction). Sub-agent concurrency (up to 20 parallel). LSP diagnostics integration (rust-analyzer, pyright, tsserver, gopls, clangd). Model auto-routing "Fin" (Flash→Pro automatic switching). Fill-in-Middle (FIM) native support.
+- RIGHT "Sandbox Security": macOS seatbelt, Linux landlock, Windows restricted token — each with OS logos.
+
+BOTTOM TIER: A detailed comparison matrix table contrasting 5 tools:
+CodeWhale (TUI, MIT, DeepSeek, 1M context, 20 sub-agents, zero dependencies, China-optimized, ¥30-200/month)
+vs Cursor (AI IDE, closed, Claude/GPT, 2M, no sub-agents, Electron, unstable in China, $20/month)
+vs Claude Code (CLI, closed, Claude, 200K-1M, Agent Teams, Python, restricted, $20+API)
+vs Continue (IDE plugin, Apache 2.0, multi-model, model-dependent, no sub-agents, Node.js, free/$10)
+vs Aider (CLI, AGPL, GPT/Claude, model-dependent, no sub-agents, Python, API cost)
+
+Style: Dark mode with neon accent colors (cyan for CodeWhale, purple for Cursor, orange for Claude Code, green for Continue, yellow for Aider). Use grid lines, rounded cards, monospace fonts for technical terms. Include small terminal window mockups and code bracket decorations. High information density, suitable for developer audience.
